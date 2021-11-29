@@ -10,12 +10,12 @@ _For the majority of the hands-on portion, you will follow this blog post, [The 
 
 In this workshop, you'll learn about several crucial concepts.
 
--   modern authentication workflows
--   handling authentication in React using React Hooks, Context API, etc.
+-   Modern authentication workflows
+-   Handling authentication in React using React Hooks, Context API, etc.
 -   JSON Web Tokens
 -   securely calling APIs
--   (bonus) multi-factor authentication
--   (bonus) how to deploy/host your application
+-   Multi-factor authentication (bonus)
+-   How to deploy/host your application (bonus)
 
 During the majority of the hands-on portion, you'll follow **[this article](https://auth0.com/blog/complete-guide-to-react-user-authentication/)** for the detailed walkthrough. In that article, the frontend and backend projects are in two different repositories. **However, this repository already includes both projects, a React frontend and a Node/Express backend**.
 
