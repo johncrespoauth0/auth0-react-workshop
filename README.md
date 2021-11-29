@@ -49,7 +49,7 @@ If you haven't already, [sign up for a free Auth0 account](https://a0.to/react-w
 -   7,000 [free active users and unlimited logins](https://auth0.com/pricing/).
 -   A [centralized, ready-to-ship login page](https://auth0.com/universal-login) for Web, iOS & Android.
 -   Up to 2 [social identity providers](https://auth0.com/docs/connections/identity-providers-social) like Google and Facebook login.
--   Unlimited [serverless Rules](https://auth0.com/docs/rules/current) to customize and extend Auth0's capabilities.
+-   Up to 3 [serverless Rules](https://auth0.com/docs/rules/current) to customize and extend Auth0's capabilities.
 
 During the sign-up process, you will create an [Auth0 Tenant](https://auth0.com/docs/getting-started/the-basics#account-and-tenants), which is a container that Auth0 uses to store your identity service configuration and your users in isolation. No other Auth0 customer can peek into or access your tenant.
 
@@ -64,7 +64,7 @@ You can find the slides [here](https://a0.to/react-workshop-slides).
 Start by cloning this repository.
 
 ```bash
-git clone https://github.com/jamesqquick/auth0-react-workshop.git
+git clone https://github.com/johncrespoauth0/auth0-react-workshop.git
 ```
 
 Check out the `step-1` branch.
