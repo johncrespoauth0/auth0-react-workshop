@@ -13,7 +13,7 @@ In this workshop, you'll learn about several crucial concepts.
 -   Modern authentication workflows
 -   Handling authentication in React using React Hooks, Context API, etc.
 -   JSON Web Tokens
--   securely calling APIs
+-   Securely calling APIs
 -   Multi-factor authentication (bonus)
 -   How to deploy/host your application (bonus)
 
