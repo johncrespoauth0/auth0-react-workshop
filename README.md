@@ -55,10 +55,6 @@ During the sign-up process, you will create an [Auth0 Tenant](https://auth0.com/
 
 ## Workshop Overview
 
-**Step 0:** Overview of Authentication
-
-You can find the slides [here](https://a0.to/react-workshop-slides).
-
 **Step 1:** Get the Starter Application
 
 Start by cloning this repository.
